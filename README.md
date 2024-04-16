@@ -3,6 +3,7 @@ This readme provides instructions on how to setup your macOS development environ
 
 ## Install Homebrew (Apple Silicon)
 Installer will automatically execute.
+
 Target Path: /opt/homebrew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -10,6 +11,7 @@ Target Path: /opt/homebrew
 
 ## Install Homebrew (Intel Processor)
 Three step process is required for setting up Intel homebrew on Apple Silicon.
+
 Target Path: /usr/local/homebrew
 ### Download Homebrew
 Extract homebrew tarball contents
